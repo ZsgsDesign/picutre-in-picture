@@ -11,7 +11,7 @@
     "version": "1.0",
     "manifest_version": 2,
     "browser_action": {  
-        "default_icon": "assets/pip.png"  
+        "default_icon": "assets/pip512.png"  
     },
     "background": {
         "scripts": ["background.js"]
